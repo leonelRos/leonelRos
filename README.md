@@ -40,8 +40,8 @@
 <br/>
 
 <a href="https://github.com/leonelRos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonelRos&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonelRos&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonelRos&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonelRos&show_icons=true&theme=dark&layout=compact" />
 </a>
 
 <br/>
