@@ -48,8 +48,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.leonelrosales.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.leonelrosales.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/leonelrosales/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leonel%20Rosales-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/leo_ben3010/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-leo_ben3010-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:rleonel426@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rleonel426@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a target="_blank" href="https://www.leonelrosales.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.leonelrosales.com-blue?style=flat-square&logo=google-chrome"></a>
+<a target="_blank" href="https://www.linkedin.com/in/leonelrosales/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leonel%20Rosales-blue?style=flat-square&logo=linkedin"></a>
+<a target="_blank" href="https://www.instagram.com/leo_ben3010/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-leo_ben3010-blue?style=flat-square&logo=instagram"></a>
+<a target="_blank" href="mailto:rleonel426@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rleonel426@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
